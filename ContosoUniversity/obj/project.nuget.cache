@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wxL4erU9WD0vclVbiCqKwDT86Gi5I/UoWs3XaYb28NIadizKO8fqJGzAl3C2o0Eq/8srIPUmzxP16B8fJVfakg==",
+  "dgSpecHash": "K/L5lT0s0mQQ+4abgIhusNf2bRzvJ+grD14PaiGwiiHFVXC0q7sUnrBudM1zMUG+3wwrWiFtcZ/UL8mh4VfmCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Diego D\\Desktop\\Contoso University\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
+  "projectFilePath": "C:\\Users\\Diego D\\Desktop\\ContosoUniversity\\ContosoUniversity\\ContosoUniversity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Diego D\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Diego D\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
